@@ -1,5 +1,5 @@
 ---
-title: "A cross-shard consistency model at globe scale (CoPPar Tree)"
+title: "A Cross-Shard Consistency Model at Globe Scale (CoPPar Tree)"
 date: 2025-07-08
 categories: ["Research Projects"]
 draft: false
