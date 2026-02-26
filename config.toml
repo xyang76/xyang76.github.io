@@ -1,0 +1,39 @@
+baseURL = "https://xyang76.github.io/"
+languageCode = "en-us"
+title = "Xincheng Yang"
+theme = "PaperMod"
+
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+
+[params]
+  author = "Xincheng Yang"
+  description = "PhD | Distributed Systems | Consensus"
+  defaultTheme = "light"
+  disableThemeToggle = true
+  ShowReadingTime = true
+  ShowCodeCopyButtons = true
+  ShowPostNavLinks = true
+
+[menu]
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Publications"
+    url = "/publications/"
+    weight = 2
+
+  [[menu.main]]
+    name = "Projects"
+    url = "/projects/"
+    weight = 3
+
+  [[menu.main]]
+    name = "Blog"
+    url = "/posts/"
+    weight = 4
