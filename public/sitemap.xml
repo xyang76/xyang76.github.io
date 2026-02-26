@@ -53,6 +53,13 @@
     
         
         <url>
+            <loc>http://localhost:1313/projects/bft/</loc>
+            <lastmod>2026-02-26T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
             <loc>http://localhost:1313/projects/shipyard/</loc>
             <lastmod>2026-02-26T00:00:00+00:00</lastmod>
         </url>
@@ -61,6 +68,13 @@
         
         <url>
             <loc>http://localhost:1313/categories/</loc>
+            <lastmod>2026-02-26T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/categories/exploratory-projects/</loc>
             <lastmod>2026-02-26T00:00:00+00:00</lastmod>
         </url>
         
@@ -90,13 +104,6 @@
         <url>
             <loc>http://localhost:1313/publications/paper1/</loc>
             <lastmod>2025-07-08T00:00:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>http://localhost:1313/categories/exploratory-projects/</loc>
-            <lastmod>2021-12-06T00:00:00+00:00</lastmod>
         </url>
         
     

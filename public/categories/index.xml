@@ -9,17 +9,17 @@
     <lastBuildDate>Thu, 26 Feb 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Exploratory Projects</title>
+      <link>http://localhost:1313/categories/exploratory-projects/</link>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/exploratory-projects/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Research Projects</title>
       <link>http://localhost:1313/categories/research-projects/</link>
       <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/categories/research-projects/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Exploratory Projects</title>
-      <link>http://localhost:1313/categories/exploratory-projects/</link>
-      <pubDate>Mon, 06 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/exploratory-projects/</guid>
       <description></description>
     </item>
     <item>

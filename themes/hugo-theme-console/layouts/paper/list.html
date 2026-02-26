@@ -1,0 +1,42 @@
+{{ define "main" }}
+<h1>{{ .Page.Title }}</h1>
+<br/>
+{{ .Content }}
+
+<div class="posts-list">
+{{ range sort .Pages "Date" "desc" }}
+    {{ if not .Params.private }}
+        <div class="post">
+            <div class="date">{{ .PublishDate.Format "Jan. 2, 2006" }}</div>    
+            <h2><a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }}</a></h2>
+
+            {{ if .Params.status }}
+                <p><strong>Status:</strong> {{ .Params.status }}</p>
+            {{ end }}
+            
+            {{ if .Params.authors }}
+                <strong>Authors:</strong> {{ delimit .Params.authors ", " }}
+            {{ end }}
+            
+            {{ if .Params.role }}
+                <p><strong>Role:</strong> {{ .Params.role }}</p>
+            {{ end }}
+
+            {{ if .Params.conference }}
+                <p><strong>Conference:</strong> {{ .Params.conference }}</p>
+            {{ end }}
+            
+            {{ if .Params.proof }}
+                <p><strong>Proof: </strong> <a href="{{ .Params.proof }}">{{ .Params.proof }}</a></p>
+            {{ end }}
+            
+            {{ if .Params.description }}
+                <p><strong>Description:</strong> {{ .Params.description }}</p>
+            {{ end }}
+
+            {{ .Summary }}
+        </div>
+    {{ end }}
+{{ end }}
+</div>
+{{ end }}

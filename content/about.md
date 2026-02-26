@@ -12,3 +12,4 @@ I am currently seeking postdoctoral opportunities.
 📧 Email: [xyang76@hawk.illinoistech.edu](mailto:xyang76@hawk.illinoistech.edu)  
 📞 Phone: +1 (312) 532-4153  
 🌐 Website: [https://xyang76.github.io](https://xyang76.github.io)
+💻 GitHub: [https://github.com/xyang76](https://github.com/xyang76)
