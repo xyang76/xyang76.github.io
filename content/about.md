@@ -1,10 +1,11 @@
 ---
 title: "About"
 ---
+Hi, welcome to my personal website!
 
-I am a PhD researcher working on distributed systems, consistency models, fault tolerance (BFT/CFT), blockchain, sharding, and scalable consensus protocols.
+I am a PhD researcher focused on distributed systems, consistency models, fault tolerance (BFT/CFT), blockchain, sharding, and scalable consensus protocols.
 
-I am actively seeking a postdoctoral position.
+I am currently seeking postdoctoral opportunities.
 
 ---
 
