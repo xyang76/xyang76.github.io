@@ -1,0 +1,29 @@
+{{ define "main" }}
+<h1>{{ .Title }}</h1>
+
+{{ if .Params.authors }}
+<p><strong>Authors:</strong> {{ delimit .Params.authors ", " }}</p>
+{{ end }}
+
+{{ if .Params.conference }}
+<p><strong>Conference:</strong> {{ .Params.conference }}</p>
+{{ end }}
+
+{{ if .Params.type }}
+<p><strong>Type:</strong> {{ .Params.type }}</p>
+{{ end }}
+
+{{ if .Params.role }}
+<p><strong>Role:</strong> {{ .Params.role }}</p>
+{{ end }}
+
+{{ if .Params.url }}
+<p><strong>URL:</strong> {{ .Params.url }}</p>
+{{ end }}
+
+{{ if .Params.description }}
+<p><strong>Description:</strong> {{ .Params.description }}</p>
+{{ end }}
+
+{{ .Content }}
+{{ end }}

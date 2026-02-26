@@ -1,7 +1,3 @@
-[[module.imports]]
-  path = "github.com/mrmierzejewski/hugo-theme-console"
-
-
 baseURL = "https://xyang76.github.io/"
 languageCode = "en-us"
 title = "Xincheng Yang"
@@ -9,8 +5,8 @@ theme = "hugo-theme-console"
 
 enableRobotsTXT = true
 buildDrafts = false
-buildFuture = false
-buildExpired = false
+buildFuture = true
+buildExpired = true
 
 [params]
   author = "Xincheng Yang"
