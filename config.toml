@@ -1,7 +1,11 @@
+[[module.imports]]
+  path = "github.com/mrmierzejewski/hugo-theme-console"
+
+
 baseURL = "https://xyang76.github.io/"
 languageCode = "en-us"
 title = "Xincheng Yang"
-theme = "PaperMod"
+theme = "hugo-theme-console"
 
 enableRobotsTXT = true
 buildDrafts = false
@@ -16,29 +20,33 @@ buildExpired = false
   ShowReadingTime = true
   ShowCodeCopyButtons = true
   ShowPostNavLinks = true
+  animateStyle = "animate-fade-up" # Animation style for content
 
 [params.social]
   facebook_admin = ""
   twitter = ""
   github = "https://github.com/xyang76"
 
-[menu]
-  [[menu.main]]
-    name = "About"
-    url = "/about/"
-    weight = 1
+[[params.navlinks]]
+  name = "About"
+  url = "/about/"
+  
+[[params.navlinks]]
+  name = "Publications"
+  url = "/publications/"
 
-  [[menu.main]]
-    name = "Publications"
-    url = "/publications/"
-    weight = 2
+[[params.navlinks]]
+  name = "Projects"
+  url = "/projects/"
+  
+[[params.navlinks]]
+  name = "Posts"
+  url = "/posts/"
+  
+[[params.navlinks]]
+  name = "Personal"
+  url = "/personal/"
 
-  [[menu.main]]
-    name = "Projects"
-    url = "/projects/"
-    weight = 3
-
-  [[menu.main]]
-    name = "Blog"
-    url = "/posts/"
-    weight = 4
+[[params.navlinks]]
+  name = "CV"
+  url = "/cv/"
