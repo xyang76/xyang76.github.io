@@ -29,6 +29,10 @@
 <p><strong>Paper link: </strong> <a href="{{ .Params.link }}">{{ .Params.link }}</a></p>
 {{ end }}
 
+{{ if .Params.proof }}
+<p><strong>Paper Proof: </strong> <a href="{{ .Params.proof }}">{{ .Params.proof }}</a></p>
+{{ end }}
+
 {{ if .Params.description }}
 <p><strong>Description:</strong> {{ .Params.description }}</p>
 {{ end }}
