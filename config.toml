@@ -17,6 +17,11 @@ buildExpired = false
   ShowCodeCopyButtons = true
   ShowPostNavLinks = true
 
+[params.social]
+  facebook_admin = ""
+  twitter = ""
+  github = "https://github.com/xyang76"
+
 [menu]
   [[menu.main]]
     name = "About"
