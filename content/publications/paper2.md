@@ -4,6 +4,6 @@ date: 2026-02-20
 draft: false
 type: "paper"
 authors: ["Xincheng Yang", "Kyle Hale"]
-conference: "Proceedings of the IEEE International Parallel and Distributed Processing Symposium (IPDPS 26')"
+conference: "Proceedings of the IEEE International Parallel and Distributed Processing Symposium (IPDPS '26)"
 ---
 
