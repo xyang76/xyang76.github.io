@@ -31,9 +31,9 @@
     </item>
     <item>
       <title>Shipyard: A Multi-Leader Consensus Protocol with Auto-Balanced Leadership of the Sharded Keyspace</title>
-      <link>http://localhost:1313/publications/paper2/</link>
+      <link>http://localhost:1313/publications/shipyard/</link>
       <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/paper2/</guid>
+      <guid>http://localhost:1313/publications/shipyard/</guid>
       <description></description>
     </item>
     <item>
@@ -45,9 +45,9 @@
     </item>
     <item>
       <title>CoPPar Tree: Fast and Composable Consistency at Global Scale</title>
-      <link>http://localhost:1313/publications/paper1/</link>
+      <link>http://localhost:1313/publications/coppar/</link>
       <pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/paper1/</guid>
+      <guid>http://localhost:1313/publications/coppar/</guid>
       <description></description>
     </item>
     <item>
