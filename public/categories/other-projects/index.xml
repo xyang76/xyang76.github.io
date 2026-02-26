@@ -6,13 +6,27 @@
     <description>Recent content in Other Projects on Xincheng Yang</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Feb 2021 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/other-projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Zoonet GitHub Repository Contributor</title>
+      <link>http://localhost:1313/projects/zoonet/</link>
+      <pubDate>Fri, 26 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/zoonet/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>OS-Level Programming &amp; Aerokernel Experiment</title>
+      <link>http://localhost:1313/projects/cs562/</link>
+      <pubDate>Sun, 08 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/cs562/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>OS-Level Programming &amp; Security Experiment</title>
-      <link>http://localhost:1313/projects/projects/</link>
-      <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/projects/</guid>
+      <link>http://localhost:1313/projects/cs558/</link>
+      <pubDate>Sat, 06 May 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/cs558/</guid>
       <description></description>
     </item>
   </channel>

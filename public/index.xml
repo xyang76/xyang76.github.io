@@ -9,17 +9,17 @@
     <lastBuildDate>Wed, 25 Feb 2026 21:37:07 -0600</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hello World!</title>
+      <title>Hello World! I’ve Finished Setting Up My Personal Website!</title>
       <link>http://localhost:1313/posts/hello/</link>
       <pubDate>Wed, 25 Feb 2026 21:37:07 -0600</pubDate>
       <guid>http://localhost:1313/posts/hello/</guid>
       <description></description>
     </item>
     <item>
-      <title>OS-Level Programming &amp; Security Experiment</title>
-      <link>http://localhost:1313/projects/projects/</link>
+      <title>A Multi-Leader Protocol with Auto-Balanced Leadership via Sharded Keyspace (Shipyard &amp; Skiff)</title>
+      <link>http://localhost:1313/projects/shipyard/</link>
       <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/projects/</guid>
+      <guid>http://localhost:1313/projects/shipyard/</guid>
       <description></description>
     </item>
     <item>
@@ -30,10 +30,52 @@
       <description></description>
     </item>
     <item>
-      <title>CoPPar tree: Fast and Composable Consistency at Global Scale</title>
+      <title>A cross-shard consistency model at globe scale (CoPPar Tree)</title>
+      <link>http://localhost:1313/projects/coppar/</link>
+      <pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/coppar/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>CoPPar Tree: Fast and Composable Consistency at Global Scale</title>
       <link>http://localhost:1313/publications/paper1/</link>
       <pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publications/paper1/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Exploratory Research on ZooKeeper Implementation Using FLX (Bricks)</title>
+      <link>http://localhost:1313/projects/bricks/</link>
+      <pubDate>Mon, 06 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/bricks/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Zoonet GitHub Repository Contributor</title>
+      <link>http://localhost:1313/projects/zoonet/</link>
+      <pubDate>Fri, 26 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/zoonet/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>OS-Level Programming &amp; Aerokernel Experiment</title>
+      <link>http://localhost:1313/projects/cs562/</link>
+      <pubDate>Sun, 08 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/cs562/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Exploratory Research on Hadoop Implementation Using FLX</title>
+      <link>http://localhost:1313/projects/zdoop/</link>
+      <pubDate>Fri, 10 May 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/zdoop/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>OS-Level Programming &amp; Security Experiment</title>
+      <link>http://localhost:1313/projects/cs558/</link>
+      <pubDate>Sat, 06 May 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/cs558/</guid>
       <description></description>
     </item>
     <item>
