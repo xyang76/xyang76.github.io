@@ -5,6 +5,8 @@ Hi, welcome to my personal website!
 
 I am a PhD researcher focused on distributed systems, consistency models, fault tolerance (BFT/CFT), blockchain, sharding, and scalable consensus protocols.
 
+Research-oriented skills: identifying research topics, implementing prototypes, performing theoretical proofs, deploying and evaluating experiments, and drafting manuscripts.
+
 I am currently seeking postdoctoral opportunities.
 
 ---
