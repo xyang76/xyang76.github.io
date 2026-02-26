@@ -21,6 +21,10 @@
 <p><strong>URL:</strong> {{ .Params.url }}</p>
 {{ end }}
 
+{{ if .Params.github }}
+<p><strong>Project repository: </strong> <a href="{{ .Params.github }}">{{ .Params.github }}</a></p>
+{{ end }}
+
 {{ if .Params.description }}
 <p><strong>Description:</strong> {{ .Params.description }}</p>
 {{ end }}

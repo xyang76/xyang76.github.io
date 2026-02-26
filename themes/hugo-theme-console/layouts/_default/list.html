@@ -21,6 +21,14 @@
             {{ if .Params.conference }}
                 <p><strong>Conference:</strong> {{ .Params.conference }}</p>
             {{ end }}
+            
+            {{ if .Params.description }}
+                <p><strong>Description:</strong> {{ .Params.description }}</p>
+            {{ end }}
+            
+            {{ if .Params.status }}
+                <p><strong>Status:</strong> {{ .Params.status }}</p>
+            {{ end }}
 
             {{ .Summary }}
         </div>

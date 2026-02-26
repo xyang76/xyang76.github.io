@@ -53,6 +53,27 @@
     
         
         <url>
+            <loc>http://localhost:1313/categories/</loc>
+            <lastmod>2026-02-26T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/projects/projects/</loc>
+            <lastmod>2026-02-26T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/categories/other-projects/</loc>
+            <lastmod>2026-02-26T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
             <loc>http://localhost:1313/publications/paper2/</loc>
             <lastmod>2026-02-20T00:00:00+00:00</lastmod>
         </url>
@@ -68,12 +89,6 @@
         
         <url>
             <loc>http://localhost:1313/about/</loc>
-        </url>
-        
-    
-        
-        <url>
-            <loc>http://localhost:1313/categories/</loc>
         </url>
         
     
