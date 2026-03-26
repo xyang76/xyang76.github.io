@@ -29,6 +29,10 @@
             {{ if .Params.description }}
                 <p><strong>Description:</strong> {{ .Params.description }}</p>
             {{ end }}
+            
+            {{ if .Params.ptitle }}
+                <p><strong>Correctness:</strong> {{ .Params.ptitle }}</p>
+            {{ end }}
 
             {{ .Summary }}
         </div>

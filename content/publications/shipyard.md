@@ -5,6 +5,5 @@ draft: false
 type: "paper"
 authors: ["Xincheng Yang", "Kyle Hale"]
 conference: "Proceedings of the IEEE International Parallel and Distributed Processing Symposium (IPDPS '26)"
-proof: "https://arxiv.org/abs/2603.07884"
 ---
 

@@ -25,6 +25,14 @@
 <p><strong>Project repository: </strong> <a href="{{ .Params.github }}">{{ .Params.github }}</a></p>
 {{ end }}
 
+{{ if .Params.link }}
+<p><strong>Paper link: </strong> <a href="{{ .Params.link }}">{{ .Params.link }}</a></p>
+{{ end }}
+
+{{ if .Params.proof }}
+                <p><strong>Proof: </strong> <a href="{{ .Params.proof }}">{{ .Params.proof }}</a></p>
+            {{ end }}
+
 {{ if .Params.description }}
 <p><strong>Description:</strong> {{ .Params.description }}</p>
 {{ end }}

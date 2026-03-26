@@ -26,8 +26,8 @@
                 <p><strong>Conference:</strong> {{ .Params.conference }}</p>
             {{ end }}
             
-            {{ if .Params.proof }}
-                <p><strong>Proof: </strong> <a href="{{ .Params.proof }}">{{ .Params.proof }}</a></p>
+            {{ if .Params.ptitle }}
+                <p><strong>Correctness:</strong> {{ .Params.ptitle }}</p>
             {{ end }}
             
             {{ if .Params.description }}
