@@ -1,6 +1,6 @@
 ---
 title: "Detecting and Verifying Sharding Issues in BFT Systems"
-date: 2026-02-26
+date: 2026-02-27
 status: "ongoing"
 categories: ["Exploratory Projects"]
 draft: false
