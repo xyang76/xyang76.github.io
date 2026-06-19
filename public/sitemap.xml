@@ -4,14 +4,35 @@
     
         
         <url>
-            <loc>http://localhost:1313/personal/</loc>
-            <lastmod>2026-02-25T23:32:39-06:00</lastmod>
+            <loc>http://localhost:1313/categories/</loc>
+            <lastmod>2026-02-27T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/projects/bft/</loc>
+            <lastmod>2026-02-27T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/categories/exploratory-projects/</loc>
+            <lastmod>2026-02-27T00:00:00+00:00</lastmod>
         </url>
         
     
         
         <url>
             <loc>http://localhost:1313/</loc>
+            <lastmod>2026-02-27T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/personal/</loc>
             <lastmod>2026-02-25T23:32:39-06:00</lastmod>
         </url>
         
@@ -54,27 +75,6 @@
         
         <url>
             <loc>http://localhost:1313/projects/shipyard/</loc>
-            <lastmod>2026-02-26T00:00:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>http://localhost:1313/categories/</loc>
-            <lastmod>2026-02-26T00:00:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>http://localhost:1313/projects/bft/</loc>
-            <lastmod>2026-02-26T00:00:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>http://localhost:1313/categories/exploratory-projects/</loc>
             <lastmod>2026-02-26T00:00:00+00:00</lastmod>
         </url>
         
