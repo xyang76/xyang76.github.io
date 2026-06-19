@@ -5,5 +5,5 @@ draft: false
 ---
 "From the ruins, you shall raise a city of your own."
 
-—— Inspired by Lonely Warrior (孤勇者)
+—— Inspired by Lonely Warrior (孤勇者), a song by Eason Chan
 
